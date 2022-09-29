@@ -1,0 +1,1 @@
+<?php echo"SELAMAT DATANG DI Dan_store"; ?>
