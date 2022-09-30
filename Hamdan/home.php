@@ -6,24 +6,29 @@
 <div class="topup">
         <img src="ml.jpg">
         <div class="text">
-            <h3>Mobile Legends</h3>
-            <p>TopUp diamond Mobile Legends</p>
+        <form action="topup_ml.php">
+        <button onclick="alert('Anda akan topup') "class="btn btn-danger">topup</button>Mobile legends</button>
+<!-- </form> -->
+            <!-- <h3>Mobile Legends</h3> -->
+            <!-- <p>TopUp diamond Mobile Legends</p> -->
         </div>
-    </div>
+    </div></br>
 
     
     <div class="topup">
         <img src="ff.jpg" >
         <div class="text">
-            <h3>Free Fire</h3>
-            <p>TopUp diamond Free Fire</p>
+        <form action="topup_ff.php">
+        <button onclick="alert('Anda akan topup') "class="btn btn-danger">topup</button>Free Fire</button>
+            <!-- <h3>Free Fire</h3>
+            <p>TopUp diamond Free Fire</p> -->
         </div>
     </div>
 
 
-    <div class="Followers">
+    <!-- <div class="Followers">
         <img src="followers.jpg" >
         <div class="text">
             <h3>Followers</h3>
         </div>
-    </div>
+    </div> -->
